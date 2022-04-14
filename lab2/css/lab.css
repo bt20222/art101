@@ -1,0 +1,18 @@
+h1 {
+    color: yellow;
+    font-size: 100%;
+}
+
+  p {
+    font-family: monospace;
+    text-indent: 100px;
+    margin-bottom: 150px;
+}
+
+#content {
+    background-color: orange;
+    width: 1000px;
+    border-style: dotted;
+    padding: 50px;
+    font-size: 43px;
+  }
